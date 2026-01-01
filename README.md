@@ -1,5 +1,5 @@
 # Excel folder
-The Excel folder contain helpful files
+The Excel folder contains helpful files.
 
 ## Growleitfaden
 
