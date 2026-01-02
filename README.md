@@ -28,7 +28,10 @@ If you support us send the diary to wetransfer@realspider.de
 
 
 
-#### Help
+#### Help me
+
 Share the project.
 
 replay and open a commit
+
+and https://buymeacoffee.com/growcom Thanks
