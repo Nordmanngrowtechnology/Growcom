@@ -16,7 +16,7 @@ If you support us send the diary to wetransfer@realspider.de
 
 | point                    | description                                                                          |
 |--------------------------|--------------------------------------------------------------------------------------|
-| wetransfer@realspider.de | Under this eMail address we acsept diary income                                      |
+| wetransfer@realspider.de | Under this eMail address we accept diary income                                      |
 | https://wetransfer.com/  | Use this service as file transfer too us. Send to the email address mentioned above. |
 |                          | We're analyzing the diary entries to find the best performance. Thank you.           |
 
