@@ -7,10 +7,15 @@ The Excel folder contains helpful files.
 
 Update: Version 1.2.2
 
+It's a really helpful tool for improvement and understanding, leading to better results. 
+Grow better cannabis yields.
+
 A simple diary. The good old school with paper and pencil. 
 A simple diary to print and fill out to keep track of things.
 
 If you support us send the diary to wetransfer@realspider.de
+
+**Do not break the law. Observe and respect your local laws.**
 
 # REPORT DIARY HELP US
 
